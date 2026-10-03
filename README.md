@@ -63,4 +63,7 @@
 2. Реализуйте выбранный вариант.
 3. Проверьте проект на отсутствие ошибок в консоли.
 
+## Дополнительно
+Ссылка на скачивание Godot: https://downloads.godotengine.org/?version=4.7.2&flavor=stable&slug=win64.exe.zip&platform=windows.64
+
 **Удачи!**
